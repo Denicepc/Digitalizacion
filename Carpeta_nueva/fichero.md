@@ -1,2 +1,2 @@
 Soy un fichero
-Esto es una nueva línea desde la rama local
+Esto es una nueva línea
